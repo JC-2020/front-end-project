@@ -1,0 +1,22 @@
+body {
+    background-color:#CB3F5B;
+    overflow: hidden;
+    text-align:center;
+  }
+  
+  body,
+  html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  svg{
+   position:absolute;
+    width:100%;
+    height:100%;
+    visibility:hidden;
+    transform:translate(-50%, 0%);
+  }
